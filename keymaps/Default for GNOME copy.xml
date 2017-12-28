@@ -1,0 +1,22 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="ToggleBookmark8" />
+</keymap>
